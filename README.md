@@ -46,7 +46,7 @@ The following images show the web application's appearance and functionality:
 
 ## Usage
 
-npm start > http://localhost:3001/notes or follow this link 
+npm start > http://localhost:3001/notes or follow this link https://protected-hamlet-39797.herokuapp.com/
 
 ## License
 
